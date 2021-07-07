@@ -1,0 +1,3 @@
+-- 01.01.2019 ile 31.12.2019 arasýnda yapýlan satýþlarý listele 
+SELECT*FROM PURCHASE_ 
+WHERE PURCH_DATE BETWEEN '2019-01-01' AND '2019-12-31'
